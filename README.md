@@ -1,4 +1,4 @@
-Hey there! 👋
+# Hey there! 👋
 
 Thanks for stopping by. Just a heads up, you won't find my game's source code here. This repo is a collection of strings i use for the Message of the Day (MOTD) and some other fun stuff related to my game.
 
